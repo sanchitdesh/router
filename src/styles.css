@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active {
+  background: skyblue;
+  padding: 10px;
+  font-size: 18px;
+  color: rgb(250, 4, 4) !important;
+  font-weight: 900;
+  border-radius: 10px;
+}
